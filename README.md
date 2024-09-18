@@ -11,9 +11,9 @@ Each folder is further categorized by the challenge name, with individual files 
 ## Usage
 You can clone this repository and explore the solutions:
 
-bash
-Copy code
-git clone https://github.com/imtiazx/hackerrank.git
+```bash
+git clone https://github.com/username/hackerrank-solutions.git
+```
 Navigate to the desired folder to find solutions for specific challenges.
 
 ## Discontinued
