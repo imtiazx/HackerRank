@@ -12,7 +12,7 @@ Each folder is further categorized by the challenge name, with individual files 
 You can clone this repository and explore the solutions:
 
 ```bash
-git clone https://github.com/username/hackerrank-solutions.git
+git clone https://github.com/imtiazx/HackerRank.git
 ```
 Navigate to the desired folder to find solutions for specific challenges.
 
